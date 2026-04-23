@@ -1,0 +1,17 @@
+# Raw source data (sensitive)
+edited_Sales_Funnel.xlsx
+
+# Cache
+enrichment_cache.json
+__pycache__/
+*.pyc
+.DS_Store
+
+# Personal photos/docs not part of the project
+photos/
+documents /
+articles/
+blogs/
+slides/
+logos/
+Screenshot*.png
